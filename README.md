@@ -23,11 +23,7 @@ This system detects and identifies multiple people entering, exiting, and re-ent
 
 ## 🎬 Demo
 
-> *(Add demo GIF here — record a short screen capture of the system running and convert to GIF using ezgif.com)*
-
-```
-[DEMO GIF PLACEHOLDER]
-```
+![Demo](docs/demo.gif)
 
 **System in action:** Bounding boxes around detected faces with confidence scores, YOLO object labels, and real-time FPS counter overlaid on the video stream.
 
