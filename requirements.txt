@@ -1,0 +1,15 @@
+# Core CV libraries
+opencv-python==4.8.0.76
+face-recognition==1.3.0
+ultralytics
+
+# Camera interface (Raspberry Pi only)
+picamera2==0.3.12
+
+# Data & utilities
+numpy
+pandas
+Pillow
+
+# Performance
+dlib

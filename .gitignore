@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+
+# Known faces (personal data - do not commit)
+known_faces/
+
+# Face encoding cache
+face_encodings.pkl
+
+# Video recordings (too large for GitHub)
+*.mp4
+*.avi
+*.h264
+
+# Logs (sample logs are in results/ — don't commit live logs)
+*_live.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
